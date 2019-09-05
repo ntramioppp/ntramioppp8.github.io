@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.ttin {
+    border: 2px solid gray;
+    margin: 5px 20px;
+    text-align: center;
+}
+
+.ttin b {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 0px;
+}
+
+body {
+    font-family: cursive;
+}
